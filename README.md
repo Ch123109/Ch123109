@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="" alt="cover" />
+<img width="100%" height = "250px" src="" alt="" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -57,5 +57,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=solarized-light)
 
 
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+
